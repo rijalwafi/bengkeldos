@@ -55,5 +55,5 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 5. Ubah isi dari variable `$config['base_url']` dengan `http://localhost/namafolder/`
 6. Untuk `namafolder` silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
 7. Import `db/db_penjualan.sql` ke database milik kalian
-8. Untuk login `admin` kalian bisa menggunakan username = `nugrohoff` dan password `pwd_nugroho`
-9. Untuk login `kasir` kalian bisa menggunakan username = `KSR58` dan password `pwd_fakhrul`
+8. Untuk login `admin` kalian bisa menggunakan username = `anton` dan password `anton`
+9. Untuk login `kasir` kalian bisa menggunakan username = `KSR72` dan password `pandu`
