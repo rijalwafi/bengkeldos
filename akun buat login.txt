@@ -1,0 +1,7 @@
+login kasir
+username:KSR31
+password:dia
+
+login admin
+username:anton
+password :anton
